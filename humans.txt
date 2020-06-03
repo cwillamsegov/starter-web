@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Courtney Williams, Programmer, cwilliams@egovja.com
 
 # THANKS
 
