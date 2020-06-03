@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 
 ##How to contribute
 Give me some $$$
+
+##Copyright
+2020 Git Training
