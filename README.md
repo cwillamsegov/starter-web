@@ -9,6 +9,7 @@ Sample website with plenty of files for demos
 
 ##How to contribute
 Give me some $$$
+Courtney needs your dollar$
 
 ##Copyright
 2020 Git Training
