@@ -8,3 +8,4 @@ Intro section
 Sample website with plenty of files for demos
 
 ##How to contribute
+Give me some $$$
